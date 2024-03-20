@@ -1,3 +1,4 @@
-# Trabajo en Equipo
+# Trabajo colaborativo
 
+Federico Clemente Alvarez
 Mauro Ferrari
